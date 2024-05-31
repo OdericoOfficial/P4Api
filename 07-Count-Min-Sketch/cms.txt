@@ -1,0 +1,3 @@
+Packets sent and read by the cms: 5092/0
+Packets sent and read by the cms: 4908/0
+Not hold for 0.0%
